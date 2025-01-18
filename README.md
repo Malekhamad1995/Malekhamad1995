@@ -1,6 +1,18 @@
 ## 👨‍💻 Senior Front-End Developer | UI/UX Enthusiast | Code Artisan 👨‍💻
 
 ### 🚀 About Me
+```
+public struct AboutMe {
+    let name = "Malek Hamad"
+    var pronouns = ["he","him"]
+    
+    let profession = "Front-End Engineer @  UI/UX Enthusiast"
+    
+    var preferredTechStack = ["React", "JS", "TS", "SQL"]
+    var hasUsed = ["Next JS", "Veu", "Firebase"]
+}
+```
+
 I'm passionate about crafting exceptional user experiences and building robust, intuitive front-end applications. With a strong foundation in UI/UX design principles and a knack for clean, maintainable code, I strive to bridge the gap between design and functionality in all my projects.
 
 ---
@@ -57,8 +69,9 @@ I approach coding like an art form! Whether it's pixel-perfect styling or design
 
 ### 📫 Let's Connect!
 I'm always open to discussing projects, ideas, and collaborations:
-- [Portfolio](https://portfolio-nextjs-react-gamma.vercel.app](https://portfolio-nextjs-react-gamma.vercel.app](https://malekhamad1995.github.io/CV)
-- [Email](mailto:Malekziad21@gmail.com)
+- [Portfolio](https://malekhamad1995.github.io/CV)
+- [Email](mailto:mansour.programmer@gmail.com)
 
 ---
+
 
